@@ -22,6 +22,7 @@
  . Grab Steam
 
  . Grab Riot Games
+                                                
                                                 ⬇️ Setup
                                                 
  . first open install.bat
