@@ -30,7 +30,7 @@
  . open builder.bat
 
 ![2](https://github.com/TheOneAndOnlyTermux/Fish-Grabber/assets/152316964/92e684ff-f510-4c84-8111-13a74275e5d9)
-                                                   🖼️ Pictures
+
 ![3](https://github.com/TheOneAndOnlyTermux/Fish-Grabber/assets/152316964/c83a34e4-3738-408b-8b2b-a4d8a7bd38d9)
 
 ![4](https://github.com/TheOneAndOnlyTermux/Fish-Grabber/assets/152316964/b8b95870-29cb-427e-bc3b-5b6692cb7245)
