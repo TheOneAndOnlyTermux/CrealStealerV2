@@ -23,6 +23,7 @@
 
  . Grab Riot Games
                                                 ⬇️ Setup
+                                                
  . first open install.bat
 
  . open builder.bat
