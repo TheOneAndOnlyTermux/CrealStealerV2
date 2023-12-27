@@ -36,6 +36,7 @@
 ![4](https://github.com/TheOneAndOnlyTermux/Fish-Grabber/assets/152316964/b8b95870-29cb-427e-bc3b-5b6692cb7245)
 
 ![5](https://github.com/TheOneAndOnlyTermux/Fish-Grabber/assets/152316964/a35eff8d-83ec-49c4-874d-e19f79c00dd3)
+                                                  
                                                   ⬇️ Setup (Manual)
 . First paste and save your webhook address instead of "WEBHOOK HERE" in Creal.py
 
@@ -52,7 +53,9 @@
 . Browse file Select One file and Windows Based (hide the console)
 ![6](https://github.com/TheOneAndOnlyTermux/Fish-Grabber/assets/152316964/c51346c3-13b2-4afe-9837-eabdcc89689c)
 . And press covert .py .exe
+                                                  
                                                   ⚠️ Disclaimer
 . This tool is for educational purposes only. It is coded for you to see how your files are simply stolen and how to take action. Do not use for illegal purposes. We are never responsible for illegal use. Educational purpose only!
+                                               
                                                 🪪 License
 . By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/.
