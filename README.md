@@ -9,8 +9,8 @@
  
  . Startup
 
- . Discord Injection:
-
+. Discord Injection:
+ 
  . Grab Browser cookies & passwords
 
  . Grab specials files
